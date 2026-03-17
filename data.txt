@@ -1,0 +1,4 @@
+Java supports multithreading
+Python is used for machine learning
+Artificial Intelligence uses neural networks
+Thread priority in Java ranges from 1 to 10
